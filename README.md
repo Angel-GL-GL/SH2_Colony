@@ -11,3 +11,8 @@ This project aims to design and implement a Security Operations Center (SOC) to 
 6. **Malware Analysis and Forensics**
 7. **Pentesting and Validation**
 8. **Continuous Monitoring and Optimization**
+
+# Architecture
+| ![Architecture](/assets/Colony_Architecture.png) |
+|:--:| 
+| *Colony Architecture* |

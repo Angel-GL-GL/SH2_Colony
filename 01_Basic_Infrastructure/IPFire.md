@@ -48,12 +48,7 @@ Once completed, you will be able to access the Admin Panel by navigating to  htt
 | *Admin Dashboard* |
 
 ## Firewall Rules
-When we select Firewall Rules, we will see the following panel where we can design our rules:
-| ![FirewallRulesDefault](/assets/ipfire/VirtualBox_IPFire_FirewallRules.png) |
-|:--:| 
-| *Firewall Rules Default* |
-
-I defined some rules, such as blocking internet access from an IP and port forwarding:
-| ![FirewallRules](/assets/ipfire/VirtualBox_IPFire_FirewallRules_New.png) |
+When we select Firewall Rules, we will see the following panel where we can design our rules. I defined some rules, such as blocking internet access from an IP and port forwarding:
+| ![FirewallRules](/assets/ipfire/VirtualBox_IPFire_FirewallRules.png) |
 |:--:| 
 | *Firewall Rules* |
